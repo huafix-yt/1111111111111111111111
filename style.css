@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+body {
+  font-family: "Tektur", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+table, tr, td {
+  border: 2px dotted black;
+}
+
+main {
+  text-align: center;
+}
+
+main table {
+  margin-left: 36%;
+}
